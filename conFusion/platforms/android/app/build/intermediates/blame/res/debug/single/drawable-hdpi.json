@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    }
+]

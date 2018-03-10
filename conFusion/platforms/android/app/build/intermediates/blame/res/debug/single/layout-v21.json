@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\kagra\\.android\\build-cache\\5d354332ae9e8e766c0fc0bcfad98e5620db04ad\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\kagra\\.android\\build-cache\\5d354332ae9e8e766c0fc0bcfad98e5620db04ad\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\kagra\\.android\\build-cache\\5d354332ae9e8e766c0fc0bcfad98e5620db04ad\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Akanksha\\NativeScript\\conFusion\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\kagra\\.android\\build-cache\\5d354332ae9e8e766c0fc0bcfad98e5620db04ad\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

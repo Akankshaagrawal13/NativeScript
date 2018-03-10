@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\986df8a38c6eba6501ad4330e724c2904454acd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_123b3376e6e475c1a6dc9ce335b95b0258c7a365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\5d354332ae9e8e766c0fc0bcfad98e5620db04ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_3018b0d0f700685ec2ef2136f942c25bc72a699d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\670e5d3ab0cf1505f4983c50af7d440b6c3ab03e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_a00c56c4f9b4f3ea1587384a198543cca97c5205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\a1dfc3d7a3c9fb17c382bbaf0517256cb85cc2ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_8a36bbdc7fcabee9f3b2a21b324e5c2bdf7a14c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\607bad3f141b873722c91284fe341a59d6f515e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_84025d6f2db07db8f609003017691d99e29e5898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\7c2715b88e907245b370865f7d84b035f1204f90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_cde39506727505959ab4ecab15ff1ffa26109c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\9b15f5f9f4f4f96d948658f848dc40f1c8558aae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e6cc1c375b2a1b478018236384c0d16840832065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\f53a67e09aae73afa0cad6656129c530f57763d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_d8b3986f589eb9d5ff63fb435bf11eb69f6e1aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\0d4af67feef037f0c4622c2cec735dc6ab2b3cd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_44b57043bc744c4b801af9b6b593f4dc8cc84917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\7431847e8475dc021a270b0e7b1b1092080add4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_7828091b15c7f30edb138252e2639f4c7bc59ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\c10204e34bb56fadc6f88c6ab4312f1b0ddb2ba6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_67e73c5327abe9c79182f5ccca1663ef506a96d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\ba71736791bce7a8f9843d82aae3b88e41785e71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_1d0d56fa3ea3cd6a8636a49197a7ee659abc1c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\d48e268c21219642739c9aae7d5fd8aca4b3ed06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_6befa1368a1b7bcaa6ec40b625c7f6ce947ca35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kagra\.android\build-cache\c58d8e2528355a358bf6f2f119dca1777bc48ef5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Akanksha\NativeScript\conFusion\platforms\android\app\build\intermediates\pre-dexed\debug\classes_2a274bc6c2a6bebb363ec9c83e4e8ba6e0482973.jar" />
+    </item>
+
+</items>
