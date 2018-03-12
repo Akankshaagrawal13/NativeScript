@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\conFusion",
+    "\\conFusion\\app"
   ],
+  "SelectedNode": "\\conFusion\\app\\app.module.js",
   "PreviewInSolutionExplorer": false
 }
