@@ -13,7 +13,6 @@
 		"@angular/animations": "~5.2.0",
 		"@angular/common": "~5.2.0",
 		"@angular/compiler": "~5.2.0",
-		"@angular/core": "~5.2.0",
 		"@angular/forms": "~5.2.0",
 		"@angular/http": "~5.2.0",
 		"@angular/platform-browser": "~5.2.0",
@@ -27,7 +26,6 @@
 		"zone.js": "~0.8.2"
 	},
 	"devDependencies": {
-		"babel-traverse": "6.4.5",
 		"babel-types": "6.4.5",
 		"babylon": "6.4.5",
 		"lazy": "1.0.11",
